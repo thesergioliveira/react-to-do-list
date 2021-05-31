@@ -3,3 +3,6 @@
 // @mixin name {
 //   // your rules
 // }
+@mixin border($color: red){
+    border: 2px solid $color;
+}
