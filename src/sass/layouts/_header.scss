@@ -1,0 +1,16 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+    span{
+        padding: 10px;
+        border-radius: 10px;
+        background-color: orange;
+        color: white;
+    }
+    button{
+        border-radius: 20px;
+    }
+    
+}
